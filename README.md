@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 #### Requirements
 
-Code is assumed user has access to MRI scans (FLAIR, T1, T1CE, T2, and ADC), ROIs (Far, and Near), and brain tumor segmentation.
+Code is assumed user has access to MRI scans (FLAIR, T1, T1CE, T2, and ADC), ROIs (Far, and Near), and brain tumor segmentation. Please contact kwaks@pennmedicine.upenn.edu for gaining access.
 
 #### Usage
 
@@ -22,7 +22,7 @@ Please run code in following order:
 3) `Evaluation map/`: `Create_eval_map.ipynb`
 4) `Main/`: `Training.ipynb` -> `Testing_InfiltrativeNoninfiltrative.ipynb` -> `Post_processing.ipynb`
 
-Make sure put appropriate input and output directory as suggested.
+Make sure to put appropriate input and output directory as suggested.
 
 
 
