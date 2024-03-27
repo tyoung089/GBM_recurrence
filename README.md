@@ -6,11 +6,13 @@ This github repository contains the Python implementatino of the following paper
 
 For this version of code, Python 3.9.7 or above is required. Required python packages can be installed by using `requirements.txt`. Once can be installed by running 
 
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 #### Requirements
 
-Code is assumed user has access to MRI scans (FLAIR, T1, T1CE, T2, and ADC), ROIs (Far, and Near), and brain tumor segmentatino.
+Code is assumed user has access to MRI scans (FLAIR, T1, T1CE, T2, and ADC), ROIs (Far, and Near), and brain tumor segmentation.
 
 #### Usage
 
